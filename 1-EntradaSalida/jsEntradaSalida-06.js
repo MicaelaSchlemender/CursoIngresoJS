@@ -3,7 +3,16 @@ Debemos lograr tomar Los numeros por ID ,
 transformarlos a enteros (parseInt) y Sumarlos.
 mostrar el resulto por medio de "ALERT"*/
 function sumar()
-{
-	alert("ok");
+{   
+	var numero1;
+	var numero2;
+
+	var resultado;
+	
+	numero1 = parseInt(txtIdNumeroUno.value);
+	numero2 = parseInt(txtIdNumeroDos.value);
+	resultado = numero1 + numero2;
+
+	alert ("La suma es: " + resultado);
 }
 

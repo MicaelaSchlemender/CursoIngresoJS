@@ -1,0 +1,5 @@
+Algoritmos: distintos pasos a seguir para que algo suceda
+variables: es una caja donde nosotros vamos a guardar información_ cualquier cosa
+las variables se declaran y se le deben asignar un valor: se pueden asignar textos, numeros y buleano
+texto= string
+IMPUT: LUGAR PARA QUE LA PERSONA COMPLETE
